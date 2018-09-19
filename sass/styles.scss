@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+$resume-color: #197ab8;
+
+$primary: $resume-color;
+
+
+
+.info-icon {
+	padding: 10px
+}
+
+@import "../node_modules/bulma/bulma.sass";
+@import "../node_modules/bulma-timeline/dist/css/bulma-timeline.sass";
+@import "../node_modules/bulma-tooltip/dist/css/bulma-tooltip.sass";
