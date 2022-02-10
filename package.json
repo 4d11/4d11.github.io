@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "bulma": "^0.7.1",
-    "node-sass": "^4.9.3"
+    "node-sass": "^7.0.0"
   },
   "scripts": {
     "css-build": "node-sass --omit-source-map-url sass/styles.scss css/styles.css",
